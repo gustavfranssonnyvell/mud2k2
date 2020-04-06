@@ -1,5 +1,5 @@
 # mud2k2
-An embroy of a Mud "thick" client for Android
+An embryo of a Mud "thick" client for Android
 
 This is my attempt at making a MUD, what's now on github is a thick client with minimal functionality, or, small world. It can be extended
 but I have not written a world text format or something like that. It also does not come with a server yet. That being the authority in
